@@ -1,4 +1,4 @@
-# Forest-Fire-Dectection-App
+# Forest-Fire-Detection-App
 
 ## Forest Fire Detection Using CNN (Week 1 & 2)
 
